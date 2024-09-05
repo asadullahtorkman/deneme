@@ -6,9 +6,7 @@
 !.vscode/extensions.js
 
 # img
-*.jpg
-*png
-img/
+
 
 # videos
 *.mp4
@@ -16,6 +14,6 @@ img/
 # packages
 
 # log
-*.log
+
 paswword.txt
 log
